@@ -22,7 +22,7 @@ ul {
 li {
   list-style: none;
   text-align: left;
-  
+
 }
 
 .resultGroup {
@@ -38,7 +38,7 @@ h1 {
 }
 
 body {
-  background: url(/Users/mac/Documents/rat-park-project/ratParkProject/img/img_mountains02.jpg);
+  background: url(img/img_mountains02.jpg);
 }
 .resultGroup {
   background-color: white;
@@ -60,7 +60,7 @@ body {
  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.72);
  -webkit-font-smoothing: antialiased;
  font-size: 15px;
- padding: 10px 20px;
+ padding: 10px 20px; 
  border-radius: 25px;
  font-size: 15px;
  font-weight: bolder;
